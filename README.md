@@ -18,3 +18,4 @@ This repository contains a Power BI report created as part of a data visualizati
 - Power BI Desktop
 - Power Query Editor
 - DAX (Data Analysis Expressions)
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/89919d3c-fa57-4222-9e31-efbb09b90011" />
